@@ -6,6 +6,5 @@ export const CheckboxOutput = ({ grid }) => (
     <textarea
       className="output"
       value={JSON.stringify(grid).replaceAll("],[", "]\n[").replaceAll(",", " ")} />
-    <button className="output-copy">Copy</button>
   </div>
 )

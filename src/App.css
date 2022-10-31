@@ -6,7 +6,11 @@
 }
 
 .app {
+  padding-top: 32px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin: auto;
+  max-width: 600px;
+  grid-gap: 32px;
 }
