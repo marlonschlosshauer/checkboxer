@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/checkboxer/static/css/main.1ce6d59d.css",
+    "main.js": "/checkboxer/static/js/main.22abadff.js",
+    "index.html": "/checkboxer/index.html",
+    "main.1ce6d59d.css.map": "/checkboxer/static/css/main.1ce6d59d.css.map",
+    "main.22abadff.js.map": "/checkboxer/static/js/main.22abadff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce6d59d.css",
+    "static/js/main.22abadff.js"
+  ]
+}
