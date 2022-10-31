@@ -1,0 +1,17 @@
+.checkbox-output {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 32px;
+}
+
+.output {
+  width: 400px;
+}
+
+.output-copy {
+  border-radius: 32px;
+  border: 0;
+  background-color: rebeccapurple;
+  color: white;
+  max-width: 220px;
+}

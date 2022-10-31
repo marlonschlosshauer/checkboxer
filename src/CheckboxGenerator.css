@@ -1,0 +1,15 @@
+.checkbox-generator {
+
+}
+
+.checkbox-column {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 16px;
+}
+
+.checkbox-row {
+  display: flex;
+  flex-direction: row;
+  grid-gap: 16px;
+}
